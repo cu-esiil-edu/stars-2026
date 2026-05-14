@@ -5,8 +5,8 @@ nav_order: 2
 ---
 
 <img  
-  src="https://media.licdn.com/dms/image/v2/D5622AQEqggMIxurKHQ/feedshare-shrink_1280/B56ZcdFkc2G0Ak-/0/1748539689583?e=1755734400&v=beta&t=WqHKkYXX0Ocypc7gHnFcBa4cr3mKtQxwpveKJZ6rT14"
-  width="750">
+  src="https://pbs.twimg.com/profile_images/1537109064093532160/mG03dW9G_400x400.jpg"
+  width="125">
 
 # ESIIL
 
