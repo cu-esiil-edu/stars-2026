@@ -405,64 +405,6 @@ nav_order: 2
 
 ***
 
-# Haskell Indian Nations University
-
-<img src="https://tribalcollegejournal.org//wp-content/uploads/HaskellIndianNations.jpg">
-
-## **Faculty Mentors** 
-
-### **Stephanie Willis** 
-<img 
-  style="float: right;" 
-  src="img/Stephanie-5.jpg" 
-  width="125" height="125">
-  
-  * Geography/GIS Instructor & Researcher, Rising Voices, Changing Coasts NSF Grant, Haskell Indian Nations University
-  * <a href="mailto:swillis@haskell.edu" target="_blank">**Email**</a>
-  * <a href="https://swillis88.github.io">**Website**</a>
-
-***
-
-### **Alex Williams** 
-<img 
-  style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
-  width="125" height="125">
-  
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>  
-
-***
-
-### **ESIIL Interns** 
-(please add your profiles)
-
-
-### **Shawn Bird**
-<img 
-  style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
-  width="125" height="125">
-  
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
-
-***
-
-### **Jesus Resendiz**
-<img 
-  style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
-  width="125" height="125">
-  
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
-
-***
-
 # San Carlos Apache Tribe / Tohono O’odham Community College
 
 <img src="https://media.licdn.com/dms/image/v2/C4D0BAQF0ByCqA3tPsw/company-logo_200_200/company-logo_200_200/0/1679064540779/sancarlosapachecollege_logo?e=2147483647&v=beta&t=bbkfnuNTmUI4IvVZ1eKXIQc22DPGeVkYYebYUsyiSJw">
